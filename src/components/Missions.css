@@ -1,0 +1,16 @@
+.missions {
+  color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mission-card {
+  border: solid gray 2px;
+  border-radius: 10px;
+  font-size: 1.5vw;
+  height: 22vw;
+  margin: 5%;
+  text-align: left;
+  width: 20vw;
+}
