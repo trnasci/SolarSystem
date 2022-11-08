@@ -1,7 +1,24 @@
-.img-planet-card {
-  height: 9vw;
+.solar-system {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.planet-name {
+.planet-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
+}
+
+.planets {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img-planet-card {
+  width: 9vw;
+  margin: 1vw;
 }

@@ -5,3 +5,8 @@
 body {
   background-image: url('/home/thiagonascimento/sd-024-b-project-solar-system/src/images/background.png');
 }
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+}
